@@ -1,4 +1,10 @@
 # GitHub520
+
+该项目fork自[GitHub520](https://github.com/521xueweihan/GitHub520)，仅供自用，如有需要请前往原项目处。
+以下为原README内容
+
+---------
+
 <p align="center">
   <img src="https://vip1.loli.net/2020/05/19/fLSBE29NxoFtOcd.gif"/>
   <br><strong><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">HelloGitHub</a></strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
