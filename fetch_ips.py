@@ -58,7 +58,7 @@ HOSTS_TEMPLATE = """# GitHub520 Host Start
 {content}
 
 # Update time: {update_time}
-# Update url: https://raw.hellogithub.com/hosts
+# Update url: https://file.ericli.live/github-hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End\n"""
 
