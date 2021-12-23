@@ -44,7 +44,7 @@
 185.199.108.153               github.io
 140.82.112.4                  github.com
 192.0.66.2                    github.blog
-140.82.114.6                  api.github.com
+140.82.113.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
@@ -55,10 +55,10 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.114.9                  codeload.github.com
-52.217.201.241                github-cloud.s3.amazonaws.com
-52.216.250.132                github-com.s3.amazonaws.com
-52.217.86.148                 github-production-release-asset-2e65be.s3.amazonaws.com
+140.82.113.9                  codeload.github.com
+52.217.173.1                  github-cloud.s3.amazonaws.com
+52.216.142.76                 github-com.s3.amazonaws.com
+52.216.138.163                github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.169.137                github-production-user-asset-6210df.s3.amazonaws.com
 52.217.169.137                github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
@@ -67,14 +67,14 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-12-24T00:30:49+08:00
+# Update time: 2021-12-24T01:30:46+08:00
 # Update url: https://file.ericli.live/github-hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-12-24T00:30:49+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-12-24T01:30:46+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
