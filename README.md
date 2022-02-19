@@ -55,7 +55,7 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.112.10                 codeload.github.com
+140.82.112.9                  codeload.github.com
 52.217.206.97                 github-cloud.s3.amazonaws.com
 52.217.199.177                github-com.s3.amazonaws.com
 52.217.173.73                 github-production-release-asset-2e65be.s3.amazonaws.com
@@ -67,14 +67,14 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2022-02-19T16:30:54+08:00
+# Update time: 2022-02-19T17:30:52+08:00
 # Update url: https://file.ericli.live/github-hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-02-19T16:30:54+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-02-19T17:30:52+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
