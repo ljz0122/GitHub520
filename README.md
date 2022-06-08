@@ -31,50 +31,50 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-78.39.179.22                  alive.github.com
-78.39.179.22                  live.github.com
-78.39.179.22                  github.githubassets.com
-78.39.179.22                  central.github.com
-78.39.179.22                  desktop.githubusercontent.com
-78.39.179.22                  assets-cdn.github.com
-78.39.179.22                  camo.githubusercontent.com
-78.39.179.22                  github.map.fastly.net
-78.39.179.22                  github.global.ssl.fastly.net
-78.39.179.22                  gist.github.com
-78.39.179.22                  github.io
-78.39.179.22                  github.com
-78.39.179.22                  github.blog
-78.39.179.22                  api.github.com
-78.39.179.22                  raw.githubusercontent.com
-78.39.179.22                  user-images.githubusercontent.com
-78.39.179.22                  favicons.githubusercontent.com
-78.39.179.22                  avatars5.githubusercontent.com
-78.39.179.22                  avatars4.githubusercontent.com
-78.39.179.22                  avatars3.githubusercontent.com
-78.39.179.22                  avatars2.githubusercontent.com
-78.39.179.22                  avatars1.githubusercontent.com
-78.39.179.22                  avatars0.githubusercontent.com
-78.39.179.22                  avatars.githubusercontent.com
-78.39.179.22                  codeload.github.com
-78.39.179.22                  github-cloud.s3.amazonaws.com
-78.39.179.22                  github-com.s3.amazonaws.com
-78.39.179.22                  github-production-release-asset-2e65be.s3.amazonaws.com
-78.39.179.22                  github-production-user-asset-6210df.s3.amazonaws.com
-78.39.179.22                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-78.39.179.22                  githubstatus.com
-78.39.179.22                  github.community
-3.0.90.112                    github.dev
-3.0.180.140                   media.githubusercontent.com
+140.82.114.26                 alive.github.com
+140.82.113.25                 live.github.com
+185.199.108.154               github.githubassets.com
+140.82.114.21                 central.github.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.153               assets-cdn.github.com
+185.199.108.133               camo.githubusercontent.com
+185.199.108.133               github.map.fastly.net
+199.232.69.194                github.global.ssl.fastly.net
+140.82.113.4                  gist.github.com
+185.199.108.153               github.io
+140.82.113.4                  github.com
+192.0.66.2                    github.blog
+140.82.112.5                  api.github.com
+185.199.108.133               raw.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               avatars.githubusercontent.com
+140.82.114.9                  codeload.github.com
+52.217.134.1                  github-cloud.s3.amazonaws.com
+54.231.228.105                github-com.s3.amazonaws.com
+52.217.197.65                 github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.137.105                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.160.97                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153               githubstatus.com
+64.71.144.211                 github.community
+40.68.78.177                  github.dev
+185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2022-06-09T02:30:46+08:00
+# Update time: 2022-06-09T03:30:46+08:00
 # Update url: https://file.ericli.live/github-hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-06-09T02:30:46+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-06-09T03:30:46+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
