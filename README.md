@@ -33,7 +33,7 @@
 # GitHub520 Host Start
 140.82.112.3                  alive.github.com
 140.82.112.3                  live.github.com
-192.168.4.1                   github.githubassets.com
+54.179.44.153                 github.githubassets.com
 140.82.112.3                  central.github.com
 185.199.108.133               desktop.githubusercontent.com
 140.82.112.3                  assets-cdn.github.com
@@ -67,14 +67,14 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2022-07-14T10:30:48+08:00
+# Update time: 2022-07-14T11:30:49+08:00
 # Update url: https://file.ericli.live/github-hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-07-14T10:30:48+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-07-14T11:30:49+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
